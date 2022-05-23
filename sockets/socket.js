@@ -10,6 +10,9 @@ bands.addBand(new Band('Arctic'));
 bands.addBand(new Band('Waka'));
 bands.addBand(new Band('Interpol'));
 bands.addBand(new Band('Mang000'));
+bands.addBand(new Band('asdasda'));
+bands.addBand(new Band('Mangafasdfa000'));
+
 
 console.log(bands);
 
